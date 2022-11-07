@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "mui": "^0.0.1",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.3",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.18",
+    "react-scripts": "latest",
+    "tailwindcss": "^3.2.1",
+    "typescript": "4.8.4"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.9.2/docs/data/material/components/app-bar/ResponsiveAppBar.tsx"
+}
