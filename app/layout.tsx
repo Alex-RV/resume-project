@@ -7,7 +7,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html>
+    <html className='bg-zinc-900'>
       <head></head>
       <body>
         <Header/>
